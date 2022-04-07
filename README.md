@@ -15,8 +15,11 @@
 ### 다. 구성도
 ![image](https://user-images.githubusercontent.com/86819254/162120164-c522bb3e-497f-4f5a-b8d5-a73e015ef7ef.png)
 
-### 라. 주요기능
-<img width="592" alt="image" src="https://user-images.githubusercontent.com/86819254/162120562-d53a5ab6-566b-4f6a-9ef0-7a8d5af1a7ee.png">
+### 라. 주요서비스
+1. 딥러닝을 통한 얼굴인식 모델 제작
+2. 얼굴인식을 통해 객체(face)별 ID 도출
+3. 개별 ID DB화, 및 이를 통한 다양한 서비스 (1) 회원정보저장 (2) 날짜별 회원출결 조회 (3) 객체 별 백신접종정보 조회
+4. 마스크 착용 인식
 
 ### 마. 개발환경
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/86819254/162120784-6e8303eb-6233-4bba-bfd2-171edff4abfb.png">
